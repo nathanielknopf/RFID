@@ -1,6 +1,6 @@
 # 06/15/2014 - V_0.2.0b
 # This script parses raw data created by TubeCode.py and WheelCode.py for use with CLOCKLAB.
-#
+# 
 # IN THIS VERSION:
 # * Updated for laser gate config
 #
